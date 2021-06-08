@@ -1,0 +1,25 @@
+D:\C#_projects\cable_records_app\cable_records_app\bin\Debug\cable_records_app.exe.config
+D:\C#_projects\cable_records_app\cable_records_app\bin\Debug\cable_records_app.exe
+D:\C#_projects\cable_records_app\cable_records_app\bin\Debug\cable_records_app.pdb
+D:\C#_projects\cable_records_app\cable_records_app\obj\Debug\cable_records_app.csprojAssemblyReference.cache
+D:\C#_projects\cable_records_app\cable_records_app\obj\Debug\cable_records_app.Form1.resources
+D:\C#_projects\cable_records_app\cable_records_app\obj\Debug\cable_records_app.Properties.Resources.resources
+D:\C#_projects\cable_records_app\cable_records_app\obj\Debug\cable_records_app.csproj.GenerateResource.cache
+D:\C#_projects\cable_records_app\cable_records_app\obj\Debug\cable_records_app.csproj.CoreCompileInputs.cache
+D:\C#_projects\cable_records_app\cable_records_app\obj\Debug\cable_records_app.exe
+D:\C#_projects\cable_records_app\cable_records_app\obj\Debug\cable_records_app.pdb
+D:\C#_projects\cable_records_app\cable_records_app\obj\Debug\cable_records_app.Form2.resources
+D:\C#_projects\cable_records_app\cable_records_app\obj\Debug\cable_records_app.Form3.resources
+C:\D to C(11-04-2019_19-35)\C#\C#_projects\cable_records_app\cable_records_app\bin\Debug\cable_records_app.exe.config
+C:\D to C(11-04-2019_19-35)\C#\C#_projects\cable_records_app\cable_records_app\bin\Debug\cable_records_app.exe
+C:\D to C(11-04-2019_19-35)\C#\C#_projects\cable_records_app\cable_records_app\bin\Debug\cable_records_app.pdb
+C:\D to C(11-04-2019_19-35)\C#\C#_projects\cable_records_app\cable_records_app\obj\Debug\cable_records_app.csprojAssemblyReference.cache
+C:\D to C(11-04-2019_19-35)\C#\C#_projects\cable_records_app\cable_records_app\obj\Debug\cable_records_app.Form1.resources
+C:\D to C(11-04-2019_19-35)\C#\C#_projects\cable_records_app\cable_records_app\obj\Debug\cable_records_app.Form2.resources
+C:\D to C(11-04-2019_19-35)\C#\C#_projects\cable_records_app\cable_records_app\obj\Debug\cable_records_app.Form3.resources
+C:\D to C(11-04-2019_19-35)\C#\C#_projects\cable_records_app\cable_records_app\obj\Debug\cable_records_app.Properties.Resources.resources
+C:\D to C(11-04-2019_19-35)\C#\C#_projects\cable_records_app\cable_records_app\obj\Debug\cable_records_app.csproj.GenerateResource.cache
+C:\D to C(11-04-2019_19-35)\C#\C#_projects\cable_records_app\cable_records_app\obj\Debug\cable_records_app.csproj.CoreCompileInputs.cache
+C:\D to C(11-04-2019_19-35)\C#\C#_projects\cable_records_app\cable_records_app\obj\Debug\cable_records_app.exe
+C:\D to C(11-04-2019_19-35)\C#\C#_projects\cable_records_app\cable_records_app\obj\Debug\cable_records_app.pdb
+C:\D to C(11-04-2019_19-35)\C#\C#_projects\cable_records_app\cable_records_app\obj\Debug\cable_records_app.Form4.resources
